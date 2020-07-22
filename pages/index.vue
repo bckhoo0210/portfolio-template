@@ -46,12 +46,7 @@
           </template>
         </Career>
 
-        <Career
-          companyName="Company Name"
-          title="Your Job Title"
-          startDate="Start Date"
-          endDate="End Date"
-        >
+        <Career companyName="hi" title="Your Job Title" startDate="Start Date" endDate="End Date">
           <!-- List of what you had did in the company -->
           <template v-slot:experience>
             <ul class="text-gray-600 list-inside list-disc mt-2 px-4">
